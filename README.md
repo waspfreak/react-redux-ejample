@@ -1,5 +1,5 @@
 
-#react-redux-ejample
+# react-redux-ejample
 
-> npm install
-> npm start
+# npm install
+# npm start
